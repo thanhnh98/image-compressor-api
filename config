@@ -1,5 +1,8 @@
 {
   "version": {
     "lastVersionCode": 6
-  }
+  },
+  "features": {
+      "ads": false
+   }
 }
