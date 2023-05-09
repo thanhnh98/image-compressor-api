@@ -3,6 +3,6 @@
     "lastVersionCode": 9
   },
   "features": {
-      "ads": false
+      "ads": true
    }
 }
